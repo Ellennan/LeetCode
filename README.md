@@ -1,7 +1,7 @@
 # Leetcode
 0001, 0002, 0004, 0455, 0003, 0005
 ### Array
-[1. Two Sum](https://github.com/Ellennan/Leetcode/blob/main/0001.Two%20Sum.md) (Array, Hash table)
+[1. Two Sum](https://github.com/Ellennan/Leetcode/blob/main/0001.%20Two%20Sum.md) (Array, Hash table)
 
 ### String
 [3. Longest Substring Without Repeating Characters](https://github.com/Ellennan/Leetcode/blob/main/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) (Sliding window)  
