@@ -15,3 +15,6 @@
 
 ### Greedy
 [455. Assign Cookies](https://github.com/Ellennan/Leetcode/blob/main/0455.%20Assign%20Cookies.md)
+
+### Math
+[9. Palindrome Number](https://github.com/Ellennan/Leetcode/blob/main/0009.%20Palindrome%20Number.md)
