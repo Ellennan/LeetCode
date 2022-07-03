@@ -5,7 +5,7 @@
 
 ### String
 [3. Longest Substring Without Repeating Characters](https://github.com/Ellennan/Leetcode/blob/main/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) (Sliding window)  
-[5. Longest Palindromic Substring](https://github.com/Ellennan/Leetcode/blob/main/0005.%20Longest%20Palindromic%20Substring.md)
+[5. Longest Palindromic Substring](https://github.com/Ellennan/Leetcode/blob/main/0005.%20Longest%20Palindromic%20Substring.md)  
 [6. Zigzag Conversion](https://github.com/Ellennan/Leetcode/blob/main/0006.%20Zigzag%20Conversion.md)
 
 ### Linked List
