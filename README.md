@@ -1,5 +1,15 @@
 # Leetcode
 0001, 0002, 0004, 0455, 0003, 0009, 0007, 0005, 0006, 0008, 0010, 0011, 0012, 0013
+
+- [Array](#array)  
+- [String](#string)  
+- [Linked List](#linked-list)  
+- [Binary Search](#binary-search)  
+- [Greedy](#greedy)  
+- [Math](#math)  
+- [Two Pointers](#two-pointers)  
+
+
 ### Array
 [1. Two Sum](https://github.com/Ellennan/Leetcode/blob/main/0001.%20Two%20Sum.md) (Array, Hash table)
 
