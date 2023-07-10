@@ -11,24 +11,24 @@
 
 
 ## Array
-[1. Two Sum](0001.%20Two%20Sum.md) (Array, Hash table)
+[1. Two Sum](leetcode/0001.%20Two%20Sum.md) (Array, Hash table)
 
 
 ## String
-[3. Longest Substring Without Repeating Characters](0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) (Sliding window)  
-[5. Longest Palindromic Substring](0005.%20Longest%20Palindromic%20Substring.md)  
-[6. Zigzag Conversion](0006.%20Zigzag%20Conversion.md)  
-[8. String to Integer (atoi)](0008.%20String%20to%20Integer%20(atoi).md)  
-[10. Regular Expression Matching](0010.%20Regular%20Expression%20Matching.md)  
-[14. Longest Common Prefix](0014.%20Longest%20Common%20Prefix.md)
+[3. Longest Substring Without Repeating Characters](leetcode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) (Sliding window)  
+[5. Longest Palindromic Substring](leetcode/0005.%20Longest%20Palindromic%20Substring.md)  
+[6. Zigzag Conversion](leetcode/0006.%20Zigzag%20Conversion.md)  
+[8. String to Integer (atoi)](leetcode/0008.%20String%20to%20Integer%20(atoi).md)  
+[10. Regular Expression Matching](leetcode/0010.%20Regular%20Expression%20Matching.md)  
+[14. Longest Common Prefix](leetcode/0014.%20Longest%20Common%20Prefix.md)
 
 
 ## Linked List
-[2. Add Two Numbers](0002.%20Add%20Two%20Numbers.md)
+[2. Add Two Numbers](leetcode/0002.%20Add%20Two%20Numbers.md)
 
 
 ## Binary Search
-[4. Median of Two Sorted Arrays](0004.%20Median%20of%20Two%20Sorted%20Arrays.md)
+[4. Median of Two Sorted Arrays](leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 
 ## Greedy
@@ -36,11 +36,11 @@
 
 
 ## Math
-[7. Reverse Integer](0007.%20Reverse%20Integer.md)  
-[9. Palindrome Number](0009.%20Palindrome%20Number.md)  
-[12. Integer to Roman](0012.%20Integer%20to%20Roman.md)  
-[13. Roman to Integer](0013.%20Roman%20to%20Integer.md)
+[7. Reverse Integer](leetcode/0007.%20Reverse%20Integer.md)  
+[9. Palindrome Number](leetcode/0009.%20Palindrome%20Number.md)  
+[12. Integer to Roman](leetcode/0012.%20Integer%20to%20Roman.md)  
+[13. Roman to Integer](leetcode/0013.%20Roman%20to%20Integer.md)
 
 
 ## Two Pointers
-[11. Container With Most Water](0011.%20Container%20With%20Most%20Water.md)
+[11. Container With Most Water](leetcode/0011.%20Container%20With%20Most%20Water.md)
