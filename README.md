@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 0001, 0002, 0004, 0455, 0003, 0009, 0007, 0005, 0006, 0008, 0010, 0011, 0012, 0013, 0014, 0026, *015
+Roadmap: 0001, 0002, 0004, 0455, 0003, 0009, 0007, 0005, 0006, 0008, 0010, 0011, 0012, 0013, 0014, 0026, 0066, *015
 
 > \* Unsolved
 
@@ -15,7 +15,8 @@ Roadmap: 0001, 0002, 0004, 0455, 0003, 0009, 0007, 0005, 0006, 0008, 0010, 0011,
 
 ## Array
 [1. Two Sum](leetcode/0001.%20Two%20Sum.md) (Array, Hash table)  
-[26. Remove Duplicates from Sorted Array](leetcode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+[26. Remove Duplicates from Sorted Array](leetcode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.md)  
+[66. Plus One](leetcode/0066.%20Plus%20One.md)
 
 
 ## String
