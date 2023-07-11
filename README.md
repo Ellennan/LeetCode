@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, *15
 
 > \* Unsolved
 
@@ -21,6 +21,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [108. Convert Sorted Array to Binary Search Tree](leetcode/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
 [118. Pascal's Triangle](leetcode/0118.%20Pascal's%20Triangle.md)  
 [121. Best Time to Buy and Sell Stock](leetcode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)  
+[136. Single Number](leetcode/0136.%20Single%20Number.md)  
 
 ## String
 [3. Longest Substring Without Repeating Characters](leetcode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) (Sliding window)  
