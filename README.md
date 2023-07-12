@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 0020, *15
 
 > \* Unsolved
 
@@ -34,7 +34,8 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [6. Zigzag Conversion](leetcode/0006.%20Zigzag%20Conversion.md)  
 [8. String to Integer (atoi)](leetcode/0008.%20String%20to%20Integer%20(atoi).md)  
 [10. Regular Expression Matching](leetcode/0010.%20Regular%20Expression%20Matching.md)  
-[14. Longest Common Prefix](leetcode/0014.%20Longest%20Common%20Prefix.md)
+[14. Longest Common Prefix](leetcode/0014.%20Longest%20Common%20Prefix.md)  
+[20. Valid Parentheses](leetcode/0020.%20Valid%20Parentheses.md)  
 
 
 ## Linked List
