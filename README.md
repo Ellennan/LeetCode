@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 0020, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 0020, 0028, *15
 
 > \* Unsolved
 
@@ -28,6 +28,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [283. Move Zeroes](leetcode/0283.%20Move%20Zeroes.md)  
 [350. Intersection of Two Arrays II](leetcode/0350.%20Intersection%20of%20Two%20Arrays%20II.md)
 
+
 ## String
 [3. Longest Substring Without Repeating Characters](leetcode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) (Sliding window)  
 [5. Longest Palindromic Substring](leetcode/0005.%20Longest%20Palindromic%20Substring.md)  
@@ -36,6 +37,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [10. Regular Expression Matching](leetcode/0010.%20Regular%20Expression%20Matching.md)  
 [14. Longest Common Prefix](leetcode/0014.%20Longest%20Common%20Prefix.md)  
 [20. Valid Parentheses](leetcode/0020.%20Valid%20Parentheses.md)  
+[28. Find the Index of the First Occurrence in a String](leetcode/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
 
 
 ## Linked List
