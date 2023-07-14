@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, *15
 
 > \* Unsolved
 
@@ -43,6 +43,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [242. Valid Anagram](leetcode/0242.%20Valid%20Anagram.md)  
 [344. Reverse String](leetcode/0344.%20Reverse%20String.md)  
 [387. First Unique Character in a String](leetcode/0387.%20First%20Unique%20Character%20in%20a%20String.md)  
+[412. Fizz Buzz](leetcode/0412.%20Fizz%20Buzz.md)  
 
 
 ## Linked List
