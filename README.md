@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 0020, 0028, 0125, 0171, 0242, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, *15
 
 > \* Unsolved
 
@@ -41,6 +41,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [125. Valid Palindrome](leetcode/0125.%20Valid%20Palindrome.md)  
 [171. Excel Sheet Column Number](leetcode/0171.%20Excel%20Sheet%20Column%20Number.md)  
 [242. Valid Anagram](leetcode/0242.%20Valid%20Anagram.md)  
+[344. Reverse String](leetcode/0344.%20Reverse%20String.md)  
 
 
 ## Linked List
