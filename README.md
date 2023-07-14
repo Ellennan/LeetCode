@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, *15
 
 > \* Unsolved
 
@@ -47,7 +47,8 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 
 
 ## Linked List
-[2. Add Two Numbers](leetcode/0002.%20Add%20Two%20Numbers.md)
+[2. Add Two Numbers](leetcode/0002.%20Add%20Two%20Numbers.md)  
+[141. Linked List Cycle](leetcode/0141.%20Linked%20List%20Cycle.md)  
 
 
 ## Binary Search
