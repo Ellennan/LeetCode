@@ -1,13 +1,14 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, *15
 
 > \* Unsolved
 
 - [Array](#array)  
 - [String](#string)  
 - [Linked List](#linked-list)
-- [Hash Table](#hash-table)  
+- [Hash Table](#hash-table)
+- [Tree](#tree)  
 - [Binary Search](#binary-search)  
 - [Greedy](#greedy)  
 - [Math](#math)  
@@ -57,6 +58,10 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 
 ## Hash Table
 [202. Happy Number](leetcode/0202.%20Happy%20Number.md)  
+
+
+## Tree
+[94. Binary Tree Inorder Traversal](leetcode/0094.%20Binary%20Tree%20Inorder%20Traversal.md)
 
 
 ## Binary Search
