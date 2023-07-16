@@ -1,12 +1,13 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, *15
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, *15
 
 > \* Unsolved
 
 - [Array](#array)  
 - [String](#string)  
-- [Linked List](#linked-list)  
+- [Linked List](#linked-list)
+- [Hash Table](#hash-table)  
 - [Binary Search](#binary-search)  
 - [Greedy](#greedy)  
 - [Math](#math)  
@@ -52,6 +53,10 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [160. Intersection of Two Linked Lists](leetcode/0160.%20Intersection%20of%20Two%20Linked%20Lists.md)  
 [206. Reverse Linked List](leetcode/0206.%20Reverse%20Linked%20List.md)  
 [234. Palindrome Linked List](leetcode/0234.%20Palindrome%20Linked%20List.md)  
+
+
+## Hash Table
+[202. Happy Number](leetcode/0202.%20Happy%20Number.md)  
 
 
 ## Binary Search
