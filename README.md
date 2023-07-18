@@ -63,7 +63,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 ## Tree
 [94. Binary Tree Inorder Traversal*](leetcode/0094.%20Binary%20Tree%20Inorder%20Traversal.md)  
 [101. Symmetric Tree](leetcode/0101.%20Symmetric%20Tree.md)  
-[104. Maximum Depth of Binary Tree](leetcode/0104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
+[104. Maximum Depth of Binary Tree*](leetcode/0104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
 
 
 ## Binary Search
