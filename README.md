@@ -51,7 +51,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 ## Linked List
 [2. Add Two Numbers](leetcode/0002.%20Add%20Two%20Numbers.md)  
 [141. Linked List Cycle](leetcode/0141.%20Linked%20List%20Cycle.md)  
-[146. LRU Cache](https://github.com/Ellennan/LeetCode/blob/main/leetcode/0146.%20LRU%20Cache.md)
+[146. LRU Cache](https://github.com/Ellennan/LeetCode/blob/main/leetcode/0146.%20LRU%20Cache.md)  
 [160. Intersection of Two Linked Lists*](leetcode/0160.%20Intersection%20of%20Two%20Linked%20Lists.md)  
 [206. Reverse Linked List*](leetcode/0206.%20Reverse%20Linked%20List.md)  
 [234. Palindrome Linked List*](leetcode/0234.%20Palindrome%20Linked%20List.md)  
