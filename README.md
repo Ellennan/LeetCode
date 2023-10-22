@@ -70,7 +70,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 
 
 ## Binary Search
-[4. Median of Two Sorted Arrays](leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays.md)
+[4. Median of Two Sorted Arrays](leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays.md)  
 [69. Sqrt(x)](leetcode/0069.%20Sqrt(x).md)
 
 
@@ -88,10 +88,13 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 ## Two Pointers
 [11. Container With Most Water](leetcode/0011.%20Container%20With%20Most%20Water.md)
 
+
 ## Graph
 [2093. Minimum Cost to Reach City With Discounts](leetcode/2093.%20Minimum%20Cost%20to%20Reach%20City%20With%20Discounts.md)
 
+
 ## Trie
 [208. Implement Trie (Prefix Tree)](leetcode/0208.%20Implement%20Trie%20(Prefix%20Tree).md)
+
 
 > \* Key
