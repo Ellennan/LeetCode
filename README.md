@@ -72,8 +72,8 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 ## Binary Search
 [4. Median of Two Sorted Arrays](leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays.md)  
 [35. Search Insert Position](leetcode/0035.%20Search%20Insert%20Position.md)  
-[69. Sqrt(x)](leetcode/0069.%20Sqrt(x).md)  
-[704. Binary Search](leetcode/0704.%20Binary%20Search.md)
+[69. Sqrt(x)*](leetcode/0069.%20Sqrt(x).md)  
+[704. Binary Search*](leetcode/0704.%20Binary%20Search.md)
 
 
 ## Greedy
