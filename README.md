@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, 101, 104, 2093, 146, 208, 69, 35, 704, 70, 226, 543, 15, 17, 151, 238, 334, 443, 1679, 1456, 1004, 1493, 1732, 724, 1657
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, 101, 104, 2093, 146, 208, 69, 35, 704, 70, 226, 543, 15, 17, 151, 238, 334, 443, 1679, 1456, 1004, 1493, 1732, 724, 1657, 2390
 
 > [] Unsolved
 
@@ -18,6 +18,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 - [Dynamic Programming](#dynamic-programming)
 - [Prefix Sum](#prefix-sum)
 - [Sliding Window](#sliding-window)
+- [Stack](#stack)
 
 ## Array
 [1. Two Sum](leetcode/0001.%20Two%20Sum.md) (Array, Hash table)  
@@ -124,6 +125,10 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [1456. Maximum Number of Vowels in a Substring of Given Length](leetcode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md)  
 [1004. Max Consecutive Ones III](leetcode/1004.%20Max%20Consecutive%20Ones%20III.md)  
 [1493. Longest Subarray of 1's After Deleting One Element](leetcode/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md)
+
+
+## Stack
+[2390. Removing Stars From a String](leetcode/2390.%20Removing%20Stars%20From%20a%20String.md)
 
 
 > \* Key
