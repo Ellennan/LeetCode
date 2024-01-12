@@ -20,6 +20,8 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 - [Sliding Window](#sliding-window)
 - [Stack](#stack)
 - [Backtracking](#backtracking)
+- [Heap](#heap)
+
 
 ## Array
 [1. Two Sum](leetcode/0001.%20Two%20Sum.md) (Array, Hash table)  
@@ -133,8 +135,14 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [2390. Removing Stars From a String](leetcode/2390.%20Removing%20Stars%20From%20a%20String.md)  
 [735. Asteroid Collision](leetcode/0735.%20Asteroid%20Collision.md)
 
+
 ## Backtracking
 [17. Letter Combinations of a Phone Number](leetcode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
 [216. Combination Sum III](leetcode/0216.%20Combination%20Sum%20III.md)
+
+
+## Heap
+[215. Kth Largest Element in an Array](leetcode/0215.%20Kth%20Largest%20Element%20in%20an%20Array.md)
+
 
 > \* Key
