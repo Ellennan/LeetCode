@@ -1,18 +1,19 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, 101, 104, 2093, 146, 208, 69, 35, 704, 70, 226, 543, 15, 17, 151, 238, 334, 443, 1679, 1456, 1004, 1493, 1732, 724, 1657, 2390, 32, 1143, 735, 216, 2336, 649, 933, 2095, 328, 1448, 112, 113, 437, 198, 62, 1372, 199, 700
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, 101, 104, 2093, 146, 208, 69, 35, 704, 70, 226, 543, 15, 17, 151, 238, 334, 443, 1679, 1456, 1004, 1493, 1732, 724, 1657, 2390, 32, 1143, 735, 216, 2336, 649, 933, 2095, 328, 1448, 112, 113, 437, 198, 62, 1372, 199, 700, 450
 
 > [] Unsolved
 
-- [Array](#array)  
-- [String](#string)  
+- [Array](#array)
+- [String](#string)
 - [Linked List](#linked-list)
 - [Hash Table](#hash-table)
-- [Tree](#tree)  
-- [Binary Search](#binary-search)  
-- [Greedy](#greedy)  
-- [Math](#math)  
-- [Two Pointers](#two-pointers)  
+- [Tree](#tree)
+- [Binary Search Tree](#binary-search-tree)
+- [Binary Search](#binary-search)
+- [Greedy](#greedy)
+- [Math](#math)
+- [Two Pointers](#two-pointers)
 - [Graph](#graph)
 - [Trie](#trie)
 - [Dynamic Programming](#dynamic-programming)
@@ -89,11 +90,15 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [1448. Count Good Nodes in Binary Tree](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)
 
 
+## Binary Search Tree
+[450. Delete Node in a BST](leetcode/0450.%20Delete%20Node%20in%20a%20BST.md)  
+[700. Search in a Binary Search Tree](leetcode/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md)  
+
+
 ## Binary Search
 [4. Median of Two Sorted Arrays](leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays.md)  
 [35. Search Insert Position](leetcode/0035.%20Search%20Insert%20Position.md)  
 [69. Sqrt(x)*](leetcode/0069.%20Sqrt(x).md)  
-[700. Search in a Binary Search Tree](leetcode/0700.%20Search%20in%20a%20Binary%20Search%20Tree.md)  
 [704. Binary Search*](leetcode/0704.%20Binary%20Search.md)
 
 
