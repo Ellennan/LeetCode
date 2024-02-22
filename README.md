@@ -1,6 +1,6 @@
 # Leetcode
 
-Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, 101, 104, 2093, 146, 208, 69, 35, 704, 70, 226, 543, 15, 17, 151, 238, 334, 443, 1679, 1456, 1004, 1493, 1732, 724, 1657, 2390, 32, 1143, 735, 216, 2336, 649, 933, 2095, 328, 1448, 112, 113, 437, 198, 62, 1372, 199, 700, 450
+Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 118, 121, 136, 169, 217, 268, 283, 350, 20, 28, 125, 171, 242, 344, 387, 412, 141, 160, 206, 234, 202, 94, 101, 104, 2093, 146, 208, 69, 35, 704, 70, 226, 543, 15, 17, 151, 238, 334, 443, 1679, 1456, 1004, 1493, 1732, 724, 1657, 2390, 32, 1143, 735, 216, 2336, 649, 933, 2095, 328, 1448, 112, 113, 437, 198, 62, 1372, 199, 700, 450, 841
 
 > [] Unsolved
 
@@ -11,18 +11,18 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 - [Tree](#tree)
 - [Binary Search Tree](#binary-search-tree)
 - [Binary Search](#binary-search)
+- [Graph](#graph)
+- [Stack](#stack)
+- [Queue](#queue)
+- [Heap](#heap)
+- [Trie](#trie)
+- [Two Pointers](#two-pointers)
+- [Sliding Window](#sliding-window)
+- [Dynamic Programming](#dynamic-programming)
+- [Backtracking](#backtracking)
+- [Prefix Sum](#prefix-sum)
 - [Greedy](#greedy)
 - [Math](#math)
-- [Two Pointers](#two-pointers)
-- [Graph](#graph)
-- [Trie](#trie)
-- [Dynamic Programming](#dynamic-programming)
-- [Prefix Sum](#prefix-sum)
-- [Sliding Window](#sliding-window)
-- [Stack](#stack)
-- [Backtracking](#backtracking)
-- [Heap](#heap)
-- [Queue](#queue)
 
 
 ## Array
@@ -102,6 +102,61 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [704. Binary Search*](leetcode/0704.%20Binary%20Search.md)
 
 
+## Graph
+[841. Keys and Rooms](leetcode/0841.%20Keys%20and%20Rooms.md)  
+[2093. Minimum Cost to Reach City With Discounts](leetcode/2093.%20Minimum%20Cost%20to%20Reach%20City%20With%20Discounts.md)
+
+
+## Stack
+[20. Valid Parentheses](leetcode/0020.%20Valid%20Parentheses.md)  
+[32. Longest Valid Parentheses](leetcode/0032.%20Longest%20Valid%20Parentheses.md)  
+[2390. Removing Stars From a String](leetcode/2390.%20Removing%20Stars%20From%20a%20String.md)  
+[735. Asteroid Collision](leetcode/0735.%20Asteroid%20Collision.md)
+
+
+## Queue
+[649. Dota2 Senate](leetcode/0649.%20Dota2%20Senate.md)  
+[933. Number of Recent Calls](leetcode/0933.%20Number%20of%20Recent%20Calls.md)
+
+
+## Heap
+[215. Kth Largest Element in an Array](leetcode/0215.%20Kth%20Largest%20Element%20in%20an%20Array.md)  
+[2336. Smallest Number in Infinite Set](leetcode/2336.%20Smallest%20Number%20in%20Infinite%20Set.md)
+
+
+## Trie
+[208. Implement Trie (Prefix Tree)](leetcode/0208.%20Implement%20Trie%20(Prefix%20Tree).md)
+
+
+## Two Pointers
+[11. Container With Most Water](leetcode/0011.%20Container%20With%20Most%20Water.md)  
+[15. 3Sum](leetcode/0015.%203Sum.md)
+
+
+## Sliding Window
+[1456. Maximum Number of Vowels in a Substring of Given Length](leetcode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md)  
+[1004. Max Consecutive Ones III](leetcode/1004.%20Max%20Consecutive%20Ones%20III.md)  
+[1493. Longest Subarray of 1's After Deleting One Element](leetcode/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md)
+
+
+## Dynamic Programming
+[70. Climbing Stairs](leetcode/0070.%20Climbing%20Stairs.md)  
+[62. Unique Paths](leetcode/0062.%20Unique%20Paths.md)  
+[198. House Robber](leetcode/0198.%20House%20Robber.md)  
+[1143. Longest Common Subsequence](leetcode/1143.%20Longest%20Common%20Subsequence.md)
+
+
+## Backtracking
+[17. Letter Combinations of a Phone Number](leetcode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
+[216. Combination Sum III](leetcode/0216.%20Combination%20Sum%20III.md)
+
+
+## Prefix Sum
+[238. Product of Array Except Self](leetcode/0238.%20Product%20of%20Array%20Except%20Self.md)  
+[724. Find Pivot Index](leetcode/0724.%20Find%20Pivot%20Index.md)  
+[1732. Find the Highest Altitude](leetcode/1732.%20Find%20the%20Highest%20Altitude.md)
+
+
 ## Greedy
 [334. Increasing Triplet Subsequence](leetcode/0334.%20Increasing%20Triplet%20Subsequence.md)  
 [455. Assign Cookies](leetcode/0455.%20Assign%20Cookies.md)
@@ -112,60 +167,6 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [9. Palindrome Number](leetcode/0009.%20Palindrome%20Number.md)  
 [12. Integer to Roman](leetcode/0012.%20Integer%20to%20Roman.md)  
 [13. Roman to Integer](leetcode/0013.%20Roman%20to%20Integer.md)
-
-
-## Two Pointers
-[11. Container With Most Water](leetcode/0011.%20Container%20With%20Most%20Water.md)  
-[15. 3Sum](leetcode/0015.%203Sum.md)
-
-
-## Graph
-[2093. Minimum Cost to Reach City With Discounts](leetcode/2093.%20Minimum%20Cost%20to%20Reach%20City%20With%20Discounts.md)
-
-
-## Trie
-[208. Implement Trie (Prefix Tree)](leetcode/0208.%20Implement%20Trie%20(Prefix%20Tree).md)
-
-
-## Dynamic Programming
-[70. Climbing Stairs](leetcode/0070.%20Climbing%20Stairs.md)  
-[62. Unique Paths](leetcode/0062.%20Unique%20Paths.md)  
-[198. House Robber](leetcode/0198.%20House%20Robber.md)  
-[1143. Longest Common Subsequence](leetcode/1143.%20Longest%20Common%20Subsequence.md)
-
-
-## Prefix Sum
-[238. Product of Array Except Self](leetcode/0238.%20Product%20of%20Array%20Except%20Self.md)  
-[724. Find Pivot Index](leetcode/0724.%20Find%20Pivot%20Index.md)  
-[1732. Find the Highest Altitude](leetcode/1732.%20Find%20the%20Highest%20Altitude.md)
-
-
-## Sliding Window
-[1456. Maximum Number of Vowels in a Substring of Given Length](leetcode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md)  
-[1004. Max Consecutive Ones III](leetcode/1004.%20Max%20Consecutive%20Ones%20III.md)  
-[1493. Longest Subarray of 1's After Deleting One Element](leetcode/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md)
-
-
-## Stack
-[20. Valid Parentheses](leetcode/0020.%20Valid%20Parentheses.md)  
-[32. Longest Valid Parentheses](leetcode/0032.%20Longest%20Valid%20Parentheses.md)  
-[2390. Removing Stars From a String](leetcode/2390.%20Removing%20Stars%20From%20a%20String.md)  
-[735. Asteroid Collision](leetcode/0735.%20Asteroid%20Collision.md)
-
-
-## Backtracking
-[17. Letter Combinations of a Phone Number](leetcode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
-[216. Combination Sum III](leetcode/0216.%20Combination%20Sum%20III.md)
-
-
-## Heap
-[215. Kth Largest Element in an Array](leetcode/0215.%20Kth%20Largest%20Element%20in%20an%20Array.md)  
-[2336. Smallest Number in Infinite Set](leetcode/2336.%20Smallest%20Number%20in%20Infinite%20Set.md)
-
-
-## Queue
-[649. Dota2 Senate](leetcode/0649.%20Dota2%20Senate.md)  
-[933. Number of Recent Calls](leetcode/0933.%20Number%20of%20Recent%20Calls.md)
 
 
 > \* Key
