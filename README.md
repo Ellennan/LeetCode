@@ -175,7 +175,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 
 
 ## Bit Manipulation
-[1318. Minimum Flips to Make a OR b Equal to c](leetcode/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md)
+[1318. Minimum Flips to Make a OR b Equal to c*](leetcode/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md)
 
 
 > \* Key
