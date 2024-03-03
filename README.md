@@ -117,7 +117,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 [20. Valid Parentheses](leetcode/0020.%20Valid%20Parentheses.md)  
 [32. Longest Valid Parentheses](leetcode/0032.%20Longest%20Valid%20Parentheses.md)  
 [735. Asteroid Collision](leetcode/0735.%20Asteroid%20Collision.md)  
-[739. Daily Temperatures](leetcode/0739.%20Daily%20Temperatures.md) (Monotomic Stack)  
+[739. Daily Temperatures](leetcode/0739.%20Daily%20Temperatures.md) (Monotonic Stack)  
 [2390. Removing Stars From a String](leetcode/2390.%20Removing%20Stars%20From%20a%20String.md)
 
 
