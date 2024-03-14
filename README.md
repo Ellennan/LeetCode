@@ -163,6 +163,7 @@ Roadmap: 1, 2, 4, 455, 3, 9, 7, 5, 6, 8, 10, 11, 12, 13, 14, 26, 66, 88, 108, 11
 ## Backtracking
 [17. Letter Combinations of a Phone Number](leetcode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
 [39. Combination Sum](leetcode/0039.%20Combination%20Sum.md)  
+[79. Word Search](leetcode/0079.%20Word%20Search.md)  
 [216. Combination Sum III](leetcode/0216.%20Combination%20Sum%20III.md)
 
 
